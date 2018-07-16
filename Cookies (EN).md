@@ -2,7 +2,7 @@
 
 Before you start browsing, we inform you that we use cookies with different purposes on the web https://cgs.vote, so that you can decide if you want them installed on your computer or not.
 
-If you continue browsing at https://cgs.vote, ICOFUNDING S.L. (hereinafter, ICOFUNDING) will deduct that you accept the installation of the cookies, and that you give the consent to be able to install them on your computer.
+If you continue browsing at https://cgs.vote, Wevern Ltd. (hereinafter, COIN GOVERNANCE SYSTEM) will deduct that you accept the installation of the cookies, and that you give the consent to be able to install them on your computer.
 
 ## WHAT ARE THE COOKIES?
 
