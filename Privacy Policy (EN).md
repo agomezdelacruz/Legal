@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-In compliance with the provisions of the Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter RGPD) we inform you that the personal data provided will be processed by Wevern, Ltd. (hereinafter CGS, address: St. Cristobal Bordiú, 13, Ent B, 28003 – Madrid - Spain, telephone number 915780256. Should you have any questions about this Privacy Policy you can contact us at info@cgs.vote or at the address mentioned above. 
+In compliance with the provisions of the Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter RGPD) we inform you that the personal data provided will be processed by Wevern, Ltd. (hereinafter CGS, address: St. Cristobal Bordiú, 13, Ent B, 28003 – Madrid - Spain. Should you have any questions about this Privacy Policy you can contact us at info@cgs.vote or at the address mentioned above. 
 
 COIN GOVERNANCE SYSTEM will collect the following information provided by the User by completing the contact forms on the Website:
 
